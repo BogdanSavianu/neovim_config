@@ -1,2 +1,1 @@
-# neovim_config
-# neovim_config
+My init.lua file to configure neovim using kickstart
